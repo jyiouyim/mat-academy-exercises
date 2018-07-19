@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\kyim\source\repos\joe-classes-ex1\joe-classes-ex1\source.cpp(47): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+c:\users\kyim\source\repos\joe-classes-ex1\joe-classes-ex1\source.cpp(48): warning C4172: returning address of local variable or temporary: ans_2
+LINK : fatal error LNK1561: entry point must be defined
