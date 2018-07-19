@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kyim\source\repos\joe pointers ex2\joe pointers ex2\source.cpp(34): warning C4101: 'k': unreferenced local variable
+  Joe Pointers Ex2.vcxproj -> c:\users\kyim\source\repos\Joe Pointers Ex2\x64\Debug\Joe Pointers Ex2.exe

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\kyim\source\repos\joe pointers ex2\joe pointers ex2\source.cpp(8): error C2131: expression did not evaluate to a constant
+  c:\users\kyim\source\repos\joe pointers ex2\joe pointers ex2\source.cpp(8): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\kyim\source\repos\joe pointers ex2\joe pointers ex2\source.cpp(8): note: see usage of 'length'
+c:\users\kyim\source\repos\joe pointers ex2\joe pointers ex2\source.cpp(11): error C2105: '++' needs l-value
+c:\users\kyim\source\repos\joe pointers ex2\joe pointers ex2\source.cpp(12): error C3863: array type 'int [length][width]' is not assignable
+c:\users\kyim\source\repos\joe pointers ex2\joe pointers ex2\source.cpp(19): warning C4552: '<<': result of expression not used
