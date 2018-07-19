@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kyim\desktop\c++\joe-loops-ex3-revised\joe-loops-ex3-revised\source.cpp(24): error C4996: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy': Call to 'std::basic_string::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.14.26428\include\xstring(3348): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::copy'
