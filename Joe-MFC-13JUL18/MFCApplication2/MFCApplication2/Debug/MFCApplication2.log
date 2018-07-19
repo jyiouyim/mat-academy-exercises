@@ -1,0 +1,98 @@
+﻿  stdafx.cpp
+  MainFrm.cpp
+  MFCApplication2.cpp
+  MFCApplication2Doc.cpp
+  MFCApplication2View.cpp
+  Shape.cpp
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(5): error C2653: 'Line': is not a class or namespace name
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(7): error C2065: 'point1': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(7): error C2228: left of '.x' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(7): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(8): error C2065: 'point1': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(8): error C2228: left of '.y' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(8): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(9): error C2065: 'point2': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(9): error C2228: left of '.x' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(9): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(10): error C2065: 'point2': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(10): error C2228: left of '.y' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(10): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(11): warning C4508: 'Line': function should return a value; 'void' return type assumed
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(13): error C2653: 'Line': is not a class or namespace name
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(13): error C2143: syntax error: missing ',' before '&'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(15): error C2065: 'point1': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(15): error C2065: 'line': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(15): error C2228: left of '.point1' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(15): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(16): error C2065: 'point2': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(16): error C2065: 'line': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(16): error C2228: left of '.point2' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(16): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(17): warning C4508: 'Line': function should return a value; 'void' return type assumed
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(19): error C2653: 'Line': is not a class or namespace name
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(21): error C2065: 'point1': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(21): error C2228: left of '.x' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(21): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(22): error C2065: 'point1': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(22): error C2228: left of '.y' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(22): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(25): error C2653: 'Line': is not a class or namespace name
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(27): error C2065: 'point2': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(27): error C2228: left of '.x' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(27): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(28): error C2065: 'point2': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(28): error C2228: left of '.y' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(28): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(31): error C2653: 'Circle': is not a class or namespace name
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(33): error C2065: 'radius': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(34): error C2065: 'm_c': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(34): error C2228: left of '.x' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(34): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(35): error C2065: 'm_c': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(35): error C2228: left of '.y' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(35): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(36): error C3861: 'SetPointOne': identifier not found
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(37): error C3861: 'SetPointTwo': identifier not found
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(38): warning C4508: 'Circle': function should return a value; 'void' return type assumed
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(40): error C2653: 'Circle': is not a class or namespace name
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(40): error C2143: syntax error: missing ',' before '&'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(42): error C2065: 'radius': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(42): error C2065: 'circ': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(42): error C2228: left of '.radius' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(42): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(43): error C2065: 'm_c': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(43): error C2065: 'circ': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(43): error C2228: left of '.m_c' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(43): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(44): error C3861: 'SetPointOne': identifier not found
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(45): error C3861: 'SetPointTwo': identifier not found
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(46): warning C4508: 'Circle': function should return a value; 'void' return type assumed
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(48): error C2653: 'Circle': is not a class or namespace name
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(50): error C2065: 'm_p1': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(50): error C2228: left of '.x' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(50): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(50): error C2065: 'm_c': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(50): error C2065: 'radius': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(51): error C2065: 'm_p1': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(51): error C2228: left of '.y' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(51): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(51): error C2065: 'm_c': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(51): error C2065: 'radius': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(54): error C2653: 'Circle': is not a class or namespace name
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(56): error C2065: 'm_p2': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(56): error C2228: left of '.x' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(56): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(56): error C2065: 'm_c': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(56): error C2065: 'radius': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(57): error C2065: 'm_p2': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(57): error C2228: left of '.y' must have class/struct/union
+  c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(57): note: type is 'unknown-type'
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(57): error C2065: 'm_c': undeclared identifier
+c:\users\kyim\desktop\c++\joe-mfc-13jul18\mfcapplication2\mfcapplication2\shape.cpp(57): error C2065: 'radius': undeclared identifier
+  Generating Code...
