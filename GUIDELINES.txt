@@ -1,0 +1,58 @@
+-the most suitable type for size/length/counter is size_t   (size_t s=sizeof(my_var); for(size_t i = 0; i < n; ++i))
+-pre-increment or pre-decrement operators are usually more efficient then post-   (++j is better then j++)
+-for the std library use namespace std for each function (std::cin, std::cout, std::vector)
+-avoid uninitialized variables (int i; -> int i{};)
+-use const as much as possible
+-use 2 spaces to indent the opening brace, and no space for the closing brace
+
+
+-good practice to use methods to access the class private members (Get and Set)
+-const in parameter list only restricts any changing to the parameter in question,
+while const behind function restricts any change to the "this" object
+-std::string in function parameter -> better to put const std::string& since the 
+size is huge
+
+-return by pointer for dynamic memory or parameters passed by address(arrays)
+-return by reference for parameters passed by reference, array, classes and structs;
+or for concurrently reading and writing data or chaining
+
+-do away with brackets in header file
+-ALWAYS INITIALIZE VARIABLES
+-use default for constructors or destructors without any definition
+-avoid return by value
+
+-when using templates, put both the declarations and definitions in the same .h file,
+and use inline
+-avoid global static and use local static with discretion (local is evil, static is hectic)
+-when returning a user-defined object from a function, it is recommended to return a copy
+constructed object that has the values of the local function object
+
+
+
+SCRUM #1
+-complete all assignments
+-3 groups for first 3 days (2 ppl per group)
+-2 on qt, 2 on ui, 3 on uml and data structures(surface based, ui and ux),
+ 2 on rendering(uml), 1 on integrating solution management
+-code convention and unit testing
+
+current task:
+-design ui prototype and explore user interaction
+-define functionalities and come up with documents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
